@@ -1,0 +1,16 @@
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\obj\Debug\net5.0\Assignment - TicketingSystem.csproj.AssemblyReference.cache
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\obj\Debug\net5.0\Assignment - TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\obj\Debug\net5.0\Assignment - TicketingSystem.AssemblyInfoInputs.cache
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\obj\Debug\net5.0\Assignment - TicketingSystem.AssemblyInfo.cs
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\obj\Debug\net5.0\Assignment - TicketingSystem.csproj.CoreCompileInputs.cache
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\bin\Debug\net5.0\Assignment - TicketingSystem.exe
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\bin\Debug\net5.0\Assignment - TicketingSystem.deps.json
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\bin\Debug\net5.0\Assignment - TicketingSystem.runtimeconfig.json
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\bin\Debug\net5.0\Assignment - TicketingSystem.runtimeconfig.dev.json
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\bin\Debug\net5.0\Assignment - TicketingSystem.dll
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\bin\Debug\net5.0\ref\Assignment - TicketingSystem.dll
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\bin\Debug\net5.0\Assignment - TicketingSystem.pdb
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\obj\Debug\net5.0\Assignment - TicketingSystem.dll
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\obj\Debug\net5.0\ref\Assignment - TicketingSystem.dll
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\obj\Debug\net5.0\Assignment - TicketingSystem.pdb
+D:\.Net Database Programming\Week 1\Assignment - TicketingSystem\obj\Debug\net5.0\Assignment - TicketingSystem.genruntimeconfig.cache
